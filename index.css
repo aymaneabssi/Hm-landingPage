@@ -5,7 +5,6 @@
   padding: 0;
 }
 
-
 .navbar {
   background-color: royalblue;
 }
@@ -47,4 +46,8 @@
 }
 .zbi {
   height: 100%;
+}
+
+.img-cards {
+  max-height: 300px;
 }

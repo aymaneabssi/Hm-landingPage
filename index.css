@@ -1,0 +1,48 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: royalblue;
+}
+.tables {
+  height: 400px;
+}
+.one {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: #6bb56b;
+  color: white;
+  border: 2px solid black;
+}
+.two {
+  background-color: #299bff;
+  color: white;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  font-weight: bold;
+  padding: 10px;
+}
+.three {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #ffed69;
+  color: rgb(0, 0, 0);
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+}
+#second-inner-col {
+  width: 100%;
+  background-color: #ffe41f;
+}
+#third-inner-col {
+  border-bottom-right-radius: 20px;
+  width: 100%;
+  background-color: #ebdd20;
+}
+.zbi {
+  height: 100%;
+}
